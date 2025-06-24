@@ -1,2 +1,2 @@
-# aurion-vpn-bot
-VPN Bot powered by Aurion
+# AURION 2.000 Bot
+Серверная версия Telegram-бота Аурион для Railway.

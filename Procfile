@@ -1,0 +1,1 @@
+web: python3 aurion_server.py
